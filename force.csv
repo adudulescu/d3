@@ -1,0 +1,11 @@
+source,target,value,label
+r1,b1,120,customer
+r1,b2,300,prospect
+r1,b3,450,customer
+r1,b4,500,prospect
+r2,b5,700,customer
+r2,b1,150,customer
+r2,b6,500,customer
+r2,b4,200,prospect
+r3,b7,400,prospect
+r3,b2,1200,prospect
